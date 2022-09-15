@@ -61,3 +61,39 @@ button {
     font-size: 13px;
     padding: 2px 10px;
 }
+
+/* For Section 2 */
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    font-size: 30px;
+    color: #1F2937;
+}
+
+.items {
+    display: flex;
+    gap: 52px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100px;
+}
+
+.sec2_text {
+    text-align: center;
+    font-size: 10px;
+}
+
+.sec2_pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
