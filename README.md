@@ -1,1 +1,3 @@
-# landing-page
+# Seattle Landing Page
+
+Website currently still in progress
